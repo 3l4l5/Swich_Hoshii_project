@@ -32,11 +32,10 @@ https://qiita.com/yoshi_san/items/7879b3117d298a143101
 
 # Note
 
-勝手に作っただけなので、使用は自己責任で
+適当に作っただけなので、使用は自己責任で
 
 # Author
 
-作成情報を列挙する
 
 * 作成者 Ryusei Ohkura
 * E-mail csru20003@g.nihon-u.ac.jp
