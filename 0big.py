@@ -111,7 +111,7 @@ while True:
 
     #エラーが出た場合の処理を記載
     except Exception as e:
-        sendmessage("ｴﾗｰｶﾞﾃﾞﾀﾖ!ｴﾗｰﾅｲﾖｳ↓")
+        sendmessage("ﾗｲﾄｼﾞｬﾅｲﾎｳﾃﾞｴﾗｰｶﾞﾃﾞﾀﾖ!ｴﾗｰﾅｲﾖｳ↓")
         sendmessage(e)
-        sendmessage("1分待って再チャレンジします")
-        time.sleep(60)
+        sendmessage("10秒待って再チャレンジします")
+        time.sleep(10)
